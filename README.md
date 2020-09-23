@@ -12,4 +12,4 @@
 * Modelling
 * Cross-validate the model
 * Compute RMSE and Accuracy Scores
-* Create residual plots for your models, and assess their heteroscedasticity using Bartlett’s test
+* Create residual plots for the models, and assess their heteroscedasticity using Bartlett’s test
